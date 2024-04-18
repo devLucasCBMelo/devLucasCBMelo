@@ -4,8 +4,8 @@ Hey, guys, it's a pleasure!
 
 For now I don't know what put in here
 
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-<img src="{https://img.shields.io/badge/englucascbmelo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
+![image](https://img.shields.io/badge/englucascbmelo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
 <img src="{[BadgeURLHere](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)}" />
 ![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 <!--
