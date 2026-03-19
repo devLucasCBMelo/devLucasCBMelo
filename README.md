@@ -6,13 +6,11 @@ Sou Lucas, Desenvolvedor Full-Stack e Engenheiro de Energias.
   <h2>Sobre mim:</h2>
 </div>
 
-Trabalhei durante 3 anos no mercado de energia solar e estou em processo de migração de carreira para a área de Programação
-Recentemente finalizei meu curso na Trybe (escola de programação) onde me formei como Desenvolvedor Full-Stack com especialização em Android.
+Desenvolvedor Front-end com experiência em React, Next.js e TypeScript, focado na construção de interfaces escaláveis, acessíveis e bem estruturadas.
 
+Atuei na criação de componentes reutilizáveis com Storybook e na padronização de design systems, além de contribuir com melhorias técnicas como migração de banco de dados para AWS.
 
-Na Trybe realizei mais de 40 projetos, desde a criação de um app de receitas a uma API de jogos de futebol.
-No momento estou em busca da minha primeira oportunidade, enquanto isso estou fazendo o bootcamp da XP Inc. que também é focado no Front-end
-e no Back-end, mas utilizando Dotnet C#.
+Busco oportunidades para evoluir como desenvolvedor e contribuir com soluções que gerem impacto real.
 
 
 <div>
