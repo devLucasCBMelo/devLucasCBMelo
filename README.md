@@ -34,16 +34,16 @@ Busco oportunidades para evoluir como desenvolvedor e contribuir com soluções 
 
 
 <div>
-  <h2>Socials</h2>
+  <h2>Redes Sociais</h2>
 </div>
-If you wanna contact me, please use one of these social media.
+Se quiser falar comigo, entre em contato por uma dessas redes:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:englucascbmelo@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lucaspuskas)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5583996410936)
 
 <div>
-  <h2>Tecnologies that I use most during my day</h2>
+  <h2>Tecnologias que uso durante o dia a dia</h2>
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devLucasCBMelo&langs_count=8)
