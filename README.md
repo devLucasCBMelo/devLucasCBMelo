@@ -6,7 +6,7 @@ Sou Lucas, Desenvolvedor Full-Stack e Engenheiro de Energias.
   <h2>Sobre mim:</h2>
 </div>
 
-Desenvolvedor Front-end com experiência em React, Next.js e TypeScript, focado na construção de interfaces escaláveis, acessíveis e bem estruturadas.
+Desenvolvedor Fullstack com experiência em React, Next.js, TypeScript e Node.js, focado na construção de interfaces escaláveis, acessíveis e bem estruturadas.
 
 Atuei na criação de componentes reutilizáveis com Storybook e na padronização de design systems, além de contribuir com melhorias técnicas como migração de banco de dados para AWS.
 
